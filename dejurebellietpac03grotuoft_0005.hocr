@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dejurebellietpac03grotuoft_0005.png"; bbox 0 0 1955 3166; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 525 1403 1260 1466">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 525 1403 1260 1466">
+     <span class='ocr_line' id='line_1_1' title="bbox 525 1403 1260 1466; baseline -0.011 0"><span class='ocrx_word' id='word_1_1' title='bbox 525 1407 886 1466; x_wconf 88' lang='lat' dir='ltr'><strong>HUGONIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 984 1403 1260 1460; x_wconf 84' lang='lat' dir='ltr'>GROTII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 354 1584 1437 1651">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 354 1584 1437 1651">
+     <span class='ocr_line' id='line_1_2' title="bbox 354 1584 1437 1651; baseline -0.012 0"><span class='ocrx_word' id='word_1_3' title='bbox 354 1596 460 1651; x_wconf 91' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 512 1593 722 1651; x_wconf 83' lang='lat' dir='ltr'>JURE</span> <span class='ocrx_word' id='word_1_5' title='bbox 772 1589 1014 1646; x_wconf 87' lang='lat' dir='ltr'><strong>BELLI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1065 1586 1160 1642; x_wconf 89' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 1208 1584 1437 1640; x_wconf 90' lang='lat' dir='ltr'>PACIS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
